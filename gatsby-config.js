@@ -3,12 +3,12 @@ module.exports = {
     title: `Finance Guide`,
     author: {
       name: `Guang Yuan and Shi Yu`,
-      summary: ``,
+      summary: `two dudes`,
     },
     description: `Singapore Basic Finance`,
-    siteUrl: ``,
+    siteUrl: `https://reverent-bell-f73c57.netlify.app`,
     social: {
-      twitter: ``,
+      twitter: `sometwitter`,
     },
   },
   plugins: [
